@@ -1,4 +1,5 @@
 # Blood_bank_dbms
+![A_professional_and_clean_illustration_of_a_blood_b](https://github.com/user-attachments/assets/d9e1940e-6f0b-4367-9bc5-50c60af3c386)
 
 ###### Blood Bank Database Project ######
 # Overview
