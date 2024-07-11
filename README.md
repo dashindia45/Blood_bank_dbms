@@ -37,7 +37,10 @@ A collection of SQL queries for various operations, such as retrieving donor inf
 Advanced SQL functionalities, including stored procedures, triggers, and views, to automate tasks and enhance data management.
 # ER Diagram
 The ER diagram includes the following key entities and relationships:
-
+[https://drive.google.com/file/d/1HPH3hKddDahUY809yhZZ6yt6WJ1GNR4V/view?usp=drive_link]
+# Relational-Schema 
+Refer this web for Relational_Schema
+[https://drive.google.com/file/d/1gPd_QHjNxM80iY_CnSnO0swc-YaFe7-i/view?usp=drive_link]
 # Normalization
 The database schema has been meticulously normalized through the following stages:
 
